@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"itemList" : "MasashiUmezawa 5/27/2015 15:53",
+		"targetClassDescription:" : "MasashiUmezawa 5/27/2015 15:24",
+		"addMethodsOf:using:category:" : "MasashiUmezawa 5/27/2015 16:29",
+		"itemList:" : "MasashiUmezawa 5/27/2015 15:27",
+		"addMethodsUsing:" : "MasashiUmezawa 5/27/2015 16:17",
+		"checkExists:" : "MasashiUmezawa 5/27/2015 16:33",
+		"addMethodsUsing:category:" : "MasashiUmezawa 5/27/2015 15:24",
+		"targetClassDescription" : "MasashiUmezawa 5/27/2015 15:24",
+		"prepareItemList" : "MasashiUmezawa 5/27/2015 15:54",
+		"initialize:" : "MasashiUmezawa 5/27/2015 15:52"
+	},
+	"class" : {
+		"on:" : "MasashiUmezawa 5/27/2015 15:24"
+	}
+}

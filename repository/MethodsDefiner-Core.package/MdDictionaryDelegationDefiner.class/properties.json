@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MasashiUmezawa 5/27/2015 16:12",
+	"super" : "MdBaseMethodsDefiner",
+	"category" : "MethodsDefiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aspects",
+		"delegateDictionaryName"
+	],
+	"name" : "MdDictionaryDelegationDefiner",
+	"type" : "normal"
+}

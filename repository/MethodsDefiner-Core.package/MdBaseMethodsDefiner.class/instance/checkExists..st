@@ -1,0 +1,3 @@
+private
+checkExists: itemName
+	^false

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MethodsDefiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetClassDescription",
+		"itemList"
+	],
+	"name" : "MdBaseMethodsDefiner",
+	"type" : "normal"
+}

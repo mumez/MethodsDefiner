@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MdBaseMethodsDefiner",
+	"category" : "MethodsDefiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isLazyInitializationSupport",
+		"isDependencySupport",
+		"extraAccessorBlock",
+		"extraMutatorBlock"
+	],
+	"name" : "MdAccessorMutatorDefiner",
+	"type" : "normal"
+}

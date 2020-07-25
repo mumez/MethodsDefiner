@@ -1,0 +1,3 @@
+accessing
+targetClassDescription: aTargetClassDescription
+	targetClassDescription := aTargetClassDescription

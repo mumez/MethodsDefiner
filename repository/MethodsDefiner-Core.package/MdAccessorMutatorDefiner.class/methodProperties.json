@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"extraAccessorBlock:" : "M.U 1/10/2000 00:24",
+		"isDependencySupport:" : "M.U 6/5/1999 23:31",
+		"isDependencySupport" : "M.U 6/5/1999 23:32",
+		"dependencyBlock" : "M.U 1/10/2000 00:34",
+		"extraAccessorBlock" : "M.U 1/10/2000 00:38",
+		"defaultExtraMutatorBlock" : "M.U 1/10/2000 00:40",
+		"lazyInitializationBlock" : "M.U 1/10/2000 00:34",
+		"isLazyInitializationSupport" : "M.U 6/5/1999 23:35",
+		"extraMutatorBlock" : "M.U 1/10/2000 00:39",
+		"addDependencyMutators" : "M.U 1/10/2000 00:37",
+		"extraMutatorBlock:" : "M.U 1/10/2000 00:25",
+		"isLazyInitializationSupport:" : "M.U 6/5/1999 23:35",
+		"variableNames" : "MasashiUmezawa 5/27/2015 15:31",
+		"addAccessors" : "M.U 6/5/1999 23:36",
+		"addNormalMutators" : "M.U 6/5/1999 23:33",
+		"addAccessorMutators" : "MU 11/27/1998 00:36",
+		"addNormalAccessors" : "M.U 1/10/2000 00:37",
+		"defaultExtraAccessorBlock" : "M.U 1/10/2000 00:40",
+		"addMutators" : "M.U 6/5/1999 23:37",
+		"addLazyInitializeAccessors" : "M.U 1/10/2000 00:36"
+	},
+	"class" : {
+		"createFor:" : "MasashiUmezawa 5/27/2015 16:46",
+		"example1:" : "MasashiUmezawa 5/27/2015 16:45",
+		"example2:" : "MasashiUmezawa 5/27/2015 16:45",
+		"createAllIn:" : "MasashiUmezawa 5/27/2015 16:45"
+	}
+}
